@@ -9,7 +9,7 @@ Committed to continuous learning, I am excited to explore opportunities that all
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/JayGeneve/JayGeneve.github.io/raw/master/images/Jeremiah Geneve. jpeg" width="50%">
+  <img class="img-circle" src="https://github.com/JayGeneve/JayGeneve.github.io/raw/master/images/Jeremiah Geneve.jpeg" width="50%">
 </p>
 
 ---
