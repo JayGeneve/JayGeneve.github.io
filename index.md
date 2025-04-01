@@ -48,15 +48,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I dont know what I want yet... to be successful?
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I'm passionate about a well-rounded lifestyle that blends adventure, competition, and connection. I love traveling to explore new places and cultures, and when I'm not on the road, you'll often find me on the basketball court, engaging in spirited games. I also enjoy the intellectual challenge of chess and the invigorating routines at the gym. Above all, spending quality time with friends and family is what truly enriches my life.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
