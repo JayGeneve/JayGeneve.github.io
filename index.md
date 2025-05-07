@@ -40,5 +40,3 @@ _**[Checkers Game Using Python](https://github.com/JayGeneve/Checkers-Project/tr
 I'm passionate about a well-rounded lifestyle that blends adventure, competition, and connection. I love traveling to explore new places and cultures, and when I'm not on the road, you'll often find me on the basketball court, engaging in spirited games. I also enjoy the intellectual challenge of chess and the invigorating routines at the gym. Above all, spending quality time with friends and family is what truly enriches my life.
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
