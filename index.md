@@ -30,7 +30,7 @@ _**[10- K Sentiment Analysis](build_sample.md)**_
 
 ---
 
-_**[Checkers Game Using Python](https://github.com/JayGeneve/Checkers-Project/tree/main=)**_
+_**[Checkers Game Using Python](https://github.com/JayGeneve/Checkers-Project)**_
 
 <img src="images/Checkers.jpg?raw=true"/>
 
