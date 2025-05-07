@@ -28,13 +28,13 @@ The regression.ipynb notebook contains a comprehensive walkthrough of linear reg
 
 ---
 
-_**[Midterm Project](https://donbowen.github.io/teamproject/)**_
+_**[10- K Sentiment Analysis](https://donbowen.github.io/teamproject/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Checkers]([/pdf/sample_presentation.pdf](https://github.com/JayGeneve/Checkers-Project/tree/main))**_
+_**[Checkers Game Using Python](https://github.com/JayGeneve/Checkers-Project/tree/main=)**_
 
 <img src="images/Checkers.jpg?raw=true"/>
 
