@@ -12,7 +12,7 @@ Committed to continuous learning, I am excited to explore opportunities that all
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Stock Return Prediction Using Neural Networks](midterm_summary)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
