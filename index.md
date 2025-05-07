@@ -1,6 +1,11 @@
 ## About Me
 
-Welcome to my website! I am originally from Staten Island, NY and currently I'm a senior at Lehigh University pursing a dual major in Finance and Business Analytics. Following my graduation, I will be working Marsh McLennan in New York City as an Application Development Analyst. Below are some of the past projects I have worked on.
+I am a senior at Lehigh University pursuing a dual major in Finance and Business Analytics. Passionate for innovation and leveraging data-driven insights to make informed financial decisions, I thrive in the dynamic intersection of finance and technology.
+
+I am eager to apply my knowledge and skills to contribute to the success of organizations in the ever-evolving business landscape. Through my coursework and extracurricular involvement, I have honed my ability to collaborate effectively, adapt to changing circumstances, and think critically to solve complex problems.
+
+Committed to continuous learning, I am excited to explore opportunities that allow me to further develop my expertise in finance and technology, while making a positive impact on the financial well-being of individuals and businesses alike.
+
 ---
 
 ## Portfolio
@@ -25,6 +30,7 @@ The regression.ipynb notebook contains a comprehensive walkthrough of linear reg
 
 _**[10- K Sentiment Analysis](build_sample.md)**_
 
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/Sentiment Analysis Hits.png?raw=true"/>
 
 ---
