@@ -20,7 +20,7 @@ Together with my team I developed the Lehigh Asset Pricing model which uses regr
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](regression)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
