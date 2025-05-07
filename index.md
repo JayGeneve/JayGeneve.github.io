@@ -14,7 +14,7 @@ Committed to continuous learning, I am excited to explore opportunities that all
 
 _**[Stock Return Prediction Using Neural Networks](https://lehigh-asset-pricing.streamlit.app)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+Together with my team I developed the Lehigh Asset Pricing model which uses regressors and neural networks to predict stock returns and build a zero-cost long-short portfolio. Our team processed WRDS CRSP, OpenAP, and Fama–French factor data and selected leading 5,000 firms based on net operating assets before training Lasso, Ridge, HistGradientBoosting, and three MLP architectures through an expanding window methodology. The HistGradientBoosting model led in Sharpe ratios among all methods whereas the 3 fold Neural Network showed the best network performance but the best overall result was obtained from our stacked regressor.
 
 <img src="images/Neural Network.avif?raw=true"/>
 
