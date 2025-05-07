@@ -28,7 +28,7 @@ The regression.ipynb notebook contains a comprehensive walkthrough of linear reg
 
 ---
 
-_**[10- K Sentiment Analysis](https://donbowen.github.io/teamproject/)**_
+_**[10- K Sentiment Analysis](build_sample.md)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
