@@ -12,11 +12,11 @@ Committed to continuous learning, I am excited to explore opportunities that all
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Stock Return Prediction Using Neural Networks](midterm_summary)**_
+_**[Stock Return Prediction Using Neural Networks](https://lehigh-asset-pricing.streamlit.app)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Neural Network.avif?raw=true"/>
 
 ---
 
