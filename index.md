@@ -1,6 +1,6 @@
 ## About Me
 
-Welcome to my website! I am originallt from Staten Island, NY and currently I'm a senior at Lehigh University pursing a dual major in Finance and Business Analytics. Following my graduation, I will be working Marsh McLennan in New York City as an Application Development Analyst. Below are some of the past projects I have worked on.
+Welcome to my website! I am originally from Staten Island, NY and currently I'm a senior at Lehigh University pursing a dual major in Finance and Business Analytics. Following my graduation, I will be working Marsh McLennan in New York City as an Application Development Analyst. Below are some of the past projects I have worked on.
 
 ---
 
