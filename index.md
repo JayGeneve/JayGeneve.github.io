@@ -6,12 +6,6 @@ I am eager to apply my knowledge and skills to contribute to the success of orga
 
 Committed to continuous learning, I am excited to explore opportunities that allow me to further develop my expertise in finance and technology, while making a positive impact on the financial well-being of individuals and businesses alike.
 
-<!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/JayGeneve/JayGeneve.github.io/raw/master/images/Jeremiah Geneve.jpeg" width="50%">
-</p>
-
 ---
 
 ## Portfolio
