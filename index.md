@@ -36,7 +36,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 _**[Checkers](/pdf/sample_presentation.pdf)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Checkers.jpg?raw=true"/>
 
 
 ## Hobbies
