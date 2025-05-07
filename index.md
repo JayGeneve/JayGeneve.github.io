@@ -34,7 +34,7 @@ _**[Midterm Project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-_**[Checkers](/pdf/sample_presentation.pdf)**_
+_**[Checkers]([/pdf/sample_presentation.pdf](https://github.com/JayGeneve/Checkers-Project/tree/main))**_
 
 <img src="images/Checkers.jpg?raw=true"/>
 
