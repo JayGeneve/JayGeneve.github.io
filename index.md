@@ -22,7 +22,7 @@ Together with my team I developed the Lehigh Asset Pricing model which uses regr
 
 _**[Regression Practice](regression)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+The regression.ipynb notebook contains a comprehensive walkthrough of linear regression modeling using Python. It demonstrates how to import, clean, and explore data before applying regression techniques to analyze relationships between variables. The notebook includes visualizations and model evaluation metrics, making it a clear and practical guide for learning or showcasing regression analysis.
 
 <img src="images/Regression.png?raw=true"/>
 
